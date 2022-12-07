@@ -21,6 +21,7 @@ public class Test_Interview_Ques
         WebDriver driver =new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.google.com/");
+        
 //---------------------------------------------------------------------------------------
 //        driver.get("http://demo.guru99.com/test/guru99home/");
 //        driver.manage().timeouts().implicitlyWait(3000, TimeUnit.SECONDS);
