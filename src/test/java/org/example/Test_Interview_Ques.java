@@ -40,7 +40,7 @@ public class Test_Interview_Ques
 //            System.out.println("Title Matched");
 //        }
 //---------------------------------------------------------------------------------------
-
+//
 //        Actions action= new Actions(driver);
 //        action.moveToElement(driver.findElement(By.xpath("//*[@id=\"nav-link-accountList\"]"))).build().perform();
 //
@@ -64,8 +64,8 @@ public class Test_Interview_Ques
 //            Dimension d=new Dimension(400,600);
 //            driver.manage().window().setSize(d);
 //-------------------------------------------------------------------------------------------
-        //((JavascriptExecutor)driver).executeScript("window.resizeTo(400, 600)");
-
+//        ((JavascriptExecutor)driver).executeScript("window.resizeTo(400, 600)");
+//
 //        WebDriverWait wait=new WebDriverWait(driver, 10);
 //        Alert alert=wait.until(ExpectedConditions.alertIsPresent());
 //        alert.authenticateUsing(new UserAndPassword(<username>, <password>));
